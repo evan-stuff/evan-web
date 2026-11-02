@@ -1,0 +1,20 @@
+h1{font-family: monospace;
+font-weight: bold;
+font-size: 50px;
+border-bottom-style: groove;
+border-bottom-width: 10px;
+border-bottom-color: blue;
+}
+h2{font-family: monospace;
+    font-size: 20px;
+
+
+
+}
+
+h3{font-family: sans-serif;
+    font-size: 15px;
+    border-style: groove;
+
+
+}
